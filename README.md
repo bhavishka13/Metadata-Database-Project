@@ -1,13 +1,13 @@
 # Metadata-Database-Project
 A metadata database project developed using Google Sheets, focusing on structured metadata, data validation, standardisation, and data quality management.
 
-Project Overview
+# Project Overview
 
 This project involved designing and organising metadata databases using two metadata standards: Dublin Core and VRA Core.
 
 The project focused on structuring metadata records, improving consistency through standardisation, and supporting data quality through validation rules and change tracking.
 
-Objectives
+# Objectives
 
 Structure and organise metadata using Dublin Core and VRA Core.
 
@@ -19,11 +19,11 @@ Standardise metadata values to improve data quality.
 
 Maintain raw records, standardised records, and change logs.
 
-Tools and Technologies
+# Tools and Technologies
 
 Google Sheets — metadata organisation, data validation, and standardisation.
 
-Key Features
+# Key Features
 
 Structured metadata databases: Organised metadata into separate databases for Dublin Core and VRA Core.
 
@@ -35,7 +35,7 @@ Change tracking: Maintained change logs to document data corrections and standar
 
 Raw and standardised records: Preserved original records alongside standardised versions to support transparency and traceability.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 Data organisation and database design
 
@@ -49,7 +49,7 @@ Spreadsheet-based data management
 
 Information organisation and retrieval
 
-Learning Outcomes
+# Learning Outcomes
 
 This project strengthened my understanding of how metadata standards support consistent information organisation and retrieval.
 
